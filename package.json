@@ -1,0 +1,12 @@
+{
+  "name": "garden-game",
+  "version": "1.0.0",
+  "description": "A CLI-based garden simulation game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
